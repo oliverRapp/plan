@@ -1,21 +1,35 @@
-
 # Assignments 
-| school   | course   | assignment             | due       |    |
-|----------|----------|------------------------|-----------|----|
-| dp       | research | intro                  | wed - 8   | ❌ |
-| dp       | research | lit review             | fri - 10  | ❌ |
-| valencia | criminal | 3.3 quiz               | sun - 12  | ✅ |
-| valencia | criminal | 3.4 quiz               | sun - 12  | ✅ |
-| valencia | criminal | 3.5 quiz               | sun - 12  | ✅ |
-| valencia | criminal | 3.3 discussion         | sun - 12  | ✅ |
-| valencia | criminal | 3.4 discussion         | sun - 12  | ✅ |
-| valencia | criminal | 3.5 discussion         | sun - 12  | ✅ |
-| valencia | criminal | 3.3 discussion reply   | sun - 12  | ✅ |
-| valencia | criminal | 3.4 discussion reply   | sun - 12  | ✅ |
-| valencia | criminal | 3.5 discussion reply   | sun - 12  | ✅ |
-| valencia | world    | like as the waves make | fri - 10  | ✅ |
-| valencia | america  | the life discussion    | thu - 9   | ✅ |
-| valencia | america  | the life replies       | sun - 12  | ✅ |
-| valencia | america  | exam 1                 | sun - 12  | ✅ |
+| school   | course   | assignment                    | due      |    |
+|----------|----------|-------------------------------|----------|----|
+| flvs     | psych    | 2.08 worksheet                |          | ❌ |
+| flvs     | psych    | 2.08 dba                      |          | ❌ |
+| flvs     | psych    | 2.09 exam                     |          | ❌ |
+| flvs     | psych    | 3.01 quiz                     |          | ❌ |
+| flvs     | psych    | 3.02 quiz                     |          | ❌ |
+| flvs     | psych    | 3.03 quiz                     |          | ❌ |
+| flvs     | psych    | 3.04 quiz                     |          | ❌ |
+| flvs     | psych    | 3.05 assignment               |          | ❌ |
+| flvs     | psych    | 3.06 assignment               |          | ❌ |
+| flvs     | econ     | 2.03 assignment               |          | ❌ |
+| flvs     | econ     | 2.04 quiz                     |          | ❌ |
+| flvs     | econ     | 2.05 quiz                     |          | ❌ |
+| flvs     | econ     | 2.06 assignment               |          | ❌ |
+| flvs     | econ     | 2.07 quiz                     |          | ❌ |
+| flvs     | econ     | 2.08 assignment               |          | ❌ |
+| flvs     | econ     | 2.09 quiz                     |          | ❌ |
+| flvs     | latin    | 1.03 assignment               |          | ❌ |
+| flvs     | latin    | 1.04 assignment               |          | ❌ |
+| valencia | criminal | test 3                        | sun - 19 | ❌ |
+| valencia | world    | sonnet quiz                   | fri - 17 | ❌ |
+| valencia | america  | self reliance quiz            | sun - 19 | ❌ |
+| valencia | america  | self reliance discussion      | thu - 16 | ❌ |
+| valencia | america  | self reliance replies         | sun - 19 | ❌ |
+| valencia | america  | civil Disobedience quiz       | sun - 19 | ❌ |
+| valencia | america  | civil Disobedience discussion | thu - 16 | ❌ |
+| valencia | america  | civil Disobedience replies    | sun - 19 | ❌ |
 
+# College 
+* [ ] (commonapp) activites
+* [ ] (commonapp) honors
+* [ ] (ucf) supplementals
 

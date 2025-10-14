@@ -14,7 +14,3 @@
 | 11 (dec 22-28) |                  |             |             | Carleton               |
 | ex (dec 29-31) |                  |             |             |                        |
 
-# Notes on College 
-* Bates, Kenyon, Middlebury, and Williams don't have any supplements.
-* Williams has optional 3-5 page paper.
-* Carleton is due 1/15
