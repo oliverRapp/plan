@@ -34,10 +34,12 @@
 * [ ] (ucf) supplementals
 
 # Plan 
-| M |                      |
-| T |                      |
-| W | college              |
-| T | valencia, latin 1.03 |
-| F | psych                |
-| S | econ                 |
-| S | econ, latin 1.04     |
+| day | work category        |
+|-----|----------------------|
+| M   |                      |
+| T   |                      |
+| W   | college              |
+| T   | valencia, latin 1.03 |
+| F   | psych                |
+| S   | econ                 |
+| S   | econ, latin 1.04     |
