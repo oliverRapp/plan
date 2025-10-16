@@ -31,7 +31,10 @@
 # College 
 * [ ] (commonapp) activites
 * [ ] (commonapp) honors
-* [ ] (ucf) supplementals
+* [✓] (ucf) supplementals
+* [ ] sign up for interviews
+* [✓] add updike to xello
+* [ ] reach back out to molly
 
 # Plan 
 | day | work category        |
