@@ -21,11 +21,11 @@
 | flvs     | latin    | 1.04 assignment               |          | ❌ |
 | valencia | criminal | test 3                        | sun - 19 | ❌ |
 | valencia | world    | sonnet quiz                   | fri - 17 | ❌ |
-| valencia | america  | self reliance quiz            | sun - 19 | ❌ |
-| valencia | america  | self reliance discussion      | thu - 16 | ❌ |
+| valencia | america  | self reliance quiz            | sun - 19 | ✅ |
+| valencia | america  | self reliance discussion      | thu - 16 | ✅ |
 | valencia | america  | self reliance replies         | sun - 19 | ❌ |
-| valencia | america  | civil Disobedience quiz       | sun - 19 | ❌ |
-| valencia | america  | civil Disobedience discussion | thu - 16 | ❌ |
+| valencia | america  | civil Disobedience quiz       | sun - 19 | ✅ |
+| valencia | america  | civil Disobedience discussion | thu - 16 | ✅ |
 | valencia | america  | civil Disobedience replies    | sun - 19 | ❌ |
 
 # College 
