@@ -2,7 +2,7 @@
 | school   | course   | assignment                    | due      |    |
 |----------|----------|-------------------------------|----------|----|
 | flvs     | psych    | 2.08 worksheet                |          | ✅ |
-| flvs     | psych    | 2.08 dba                      |          | ❌ |
+| flvs     | psych    | 2.08 dba                      |          | ✅ |
 | flvs     | psych    | 2.09 exam                     |          | ❌ |
 | flvs     | psych    | 3.01 quiz                     |          | ❌ |
 | flvs     | psych    | 3.02 quiz                     |          | ❌ |
@@ -19,21 +19,21 @@
 | flvs     | econ     | 2.09 quiz                     |          | ❌ |
 | flvs     | latin    | 1.03 assignment               |          | ❌ |
 | flvs     | latin    | 1.04 assignment               |          | ❌ |
-| valencia | criminal | test 3                        | sun - 19 | ❌ |
-| valencia | world    | sonnet quiz                   | fri - 17 | ❌ |
+| valencia | criminal | test 3                        | sun - 19 | ✅ |
+| valencia | world    | sonnet quiz                   | fri - 17 | ✅ |
 | valencia | america  | self reliance quiz            | sun - 19 | ✅ |
 | valencia | america  | self reliance discussion      | thu - 16 | ✅ |
-| valencia | america  | self reliance replies         | sun - 19 | ❌ |
+| valencia | america  | self reliance replies         | sun - 19 | ✅ |
 | valencia | america  | civil Disobedience quiz       | sun - 19 | ✅ |
 | valencia | america  | civil Disobedience discussion | thu - 16 | ✅ |
-| valencia | america  | civil Disobedience replies    | sun - 19 | ❌ |
+| valencia | america  | civil Disobedience replies    | sun - 19 | ✅ |
 
 # College 
 * [ ] (commonapp) activites
 * [ ] (commonapp) honors
-* [✓] (ucf) supplementals
+* [ ] (ucf) spark form
+* [ ] college board score sending
 * [ ] sign up for interviews
-* [✓] add updike to xello
 * [ ] reach back out to molly
 
 # Plan 
