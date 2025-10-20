@@ -13,11 +13,11 @@
 | flvs     | econ     | 2.03 assignment               |          | ✅ |
 | flvs     | econ     | 2.04 quiz                     |          | ✅ |
 | flvs     | econ     | 2.05 quiz                     |          | ✅ |
-| flvs     | econ     | 2.06 assignment               |          | ❌ |
-| flvs     | econ     | 2.07 quiz                     |          | ❌ |
-| flvs     | econ     | 2.08 assignment               |          | ❌ |
-| flvs     | econ     | 2.09 quiz                     |          | ❌ |
-| flvs     | latin    | 1.03 assignment               |          | ❌ |
+| flvs     | econ     | 2.06 assignment               |          | ✅ |
+| flvs     | econ     | 2.07 quiz                     |          | ✅ |
+| flvs     | econ     | 2.08 assignment               |          | ✅ |
+| flvs     | econ     | 2.09 quiz                     |          | ✅ |
+| flvs     | latin    | 1.03 assignment               |          | ✅ |
 | flvs     | latin    | 1.04 assignment               |          | ❌ |
 | valencia | criminal | test 3                        | sun - 19 | ✅ |
 | valencia | world    | sonnet quiz                   | fri - 17 | ✅ |
