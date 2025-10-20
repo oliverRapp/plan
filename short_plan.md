@@ -3,13 +3,13 @@
 |----------|----------|-------------------------------|----------|----|
 | flvs     | psych    | 2.08 worksheet                |          | ✅ |
 | flvs     | psych    | 2.08 dba                      |          | ✅ |
-| flvs     | psych    | 2.09 exam                     |          | ❌ |
-| flvs     | psych    | 3.01 quiz                     |          | ❌ |
-| flvs     | psych    | 3.02 quiz                     |          | ❌ |
-| flvs     | psych    | 3.03 quiz                     |          | ❌ |
-| flvs     | psych    | 3.04 quiz                     |          | ❌ |
-| flvs     | psych    | 3.05 assignment               |          | ❌ |
-| flvs     | psych    | 3.06 assignment               |          | ❌ |
+| flvs     | psych    | 2.09 exam                     |          | ✅ |
+| flvs     | psych    | 3.01 quiz                     |          | ✅ |
+| flvs     | psych    | 3.02 quiz                     |          | ✅ |
+| flvs     | psych    | 3.03 quiz                     |          | ✅ |
+| flvs     | psych    | 3.04 quiz                     |          | ✅ |
+| flvs     | psych    | 3.05 assignment               |          | ✅ |
+| flvs     | psych    | 3.06 assignment               |          | ✅ |
 | flvs     | econ     | 2.03 assignment               |          | ✅ |
 | flvs     | econ     | 2.04 quiz                     |          | ✅ |
 | flvs     | econ     | 2.05 quiz                     |          | ✅ |
