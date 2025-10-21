@@ -1,7 +1,7 @@
 # Assignments 
 | school   | course   | assignment                      | due      |    |
 |----------|----------|---------------------------------|----------|----|
-| dp       | lit      | study guide where are you going | mon - 20 | ❌ |
+| dp       | lit      | study guide where are you going | mon - 20 | ✅ |
 | flvs     | psych    | 3.07 worksheet                  |          | ❌ |
 | flvs     | psych    | 3.07 dba                        |          | ❌ |
 | flvs     | psych    | 3.08 exam                       |          | ❌ |
