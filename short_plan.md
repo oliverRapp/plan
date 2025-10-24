@@ -2,6 +2,8 @@
 | school   | course   | assignment                      | due      |    |
 |----------|----------|---------------------------------|----------|----|
 | dp       | lit      | study guide where are you going | mon - 20 | ✅ |
+| dp       | lit      | methods section                 | fri - 24 | ❌ |
+| dp       | lit      | snow man                        | fri - 24 | ✅ |
 | flvs     | psych    | 3.07 worksheet                  |          | ❌ |
 | flvs     | psych    | 3.07 dba                        |          | ❌ |
 | flvs     | psych    | 3.08 exam                       |          | ❌ |
@@ -33,7 +35,7 @@
 | valencia | world    | sonnet quiz                     | fri - 24 | ✅ |
 | valencia | america  | death quiz                      | thu - 23 | ✅ |
 | valencia | america  | death discussion                | thu - 23 | ✅ |
-| valencia | america  | death replies                   | sun - 26 | ❌ |
+| valencia | america  | death replies                   | sun - 26 | ✅ |
 
 # College 
 * [ ] UMichigan supplementals
