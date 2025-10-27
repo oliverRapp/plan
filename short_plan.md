@@ -4,7 +4,7 @@
 | dp       | lit      | study guide where are you going | mon - 20 | ✅ |
 | dp       | lit      | methods section                 | fri - 24 | ❌ |
 | dp       | lit      | snow man                        | fri - 24 | ✅ |
-| flvs     | psych    | 3.07 worksheet                  |          | ❌ |
+| flvs     | psych    | 3.07 worksheet                  |          | ✅ |
 | flvs     | psych    | 3.07 dba                        |          | ❌ |
 | flvs     | psych    | 3.08 exam                       |          | ❌ |
 | flvs     | econ     | 2.11 exam A                     |          | ❌ |
@@ -16,7 +16,7 @@
 | flvs     | econ     | 3.05 assignment                 |          | ❌ |
 | flvs     | econ     | 3.06 quiz                       |          | ❌ |
 | flvs     | econ     | 3.07 assignment                 |          | ❌ |
-| flvs     | latin    | 1.04 assignment                 |          | ❌ |
+| flvs     | latin    | 1.04 assignment                 |          | ✅ |
 | flvs     | latin    | 1.05 dba                        |          | ❌ |
 | flvs     | latin    | 1.06 quiz                       |          | ❌ |
 | flvs     | latin    | 1.07 quiz                       |          | ❌ |
@@ -43,6 +43,7 @@
 * [ ] (commonapp) honors
 * [✓] (ucf) spark form
 * [✓] college board score sending
+* [ ] css
 * [ ] sign up for interviews
 * [ ] reach back out to molly
 * [ ] email castell for psych term and calc grade change
