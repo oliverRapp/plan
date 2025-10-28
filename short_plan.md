@@ -20,7 +20,7 @@
 | flvs     | latin    | 1.09 exam                       |          | ❌ |
 | flvs     | latin    | 2.01 quiz                       |          | ❌ |
 | flvs     | latin    | 2.02 quiz                       |          | ❌ |
-| valencia | deviant  | finding research                | sun - 2  | ❌ |
+| valencia | deviant  | finding research                | sun - 2  | ✅ |
 | valencia | criminal | 4.4 quiz                        | sun - 2  | ✅ |
 | valencia | criminal | 4.5 quiz                        | sun - 2  | ✅ |
 | valencia | criminal | 4.4 discussion                  | sun - 2  | ✅ |
@@ -31,10 +31,8 @@
 | valencia | criminal | define terms 13                 | sun - 2  | ✅ |
 | valencia | criminal | test 4                          | sun - 2  | ✅ |
 | valencia | criminal | writing assignment 2            | sun - 2  | ❌ |
-| valencia | world    | that time of year               | fri - 31 | ❌ |
-| valencia | america  | raven quiz                      | sun - 2  | ❌ |
-
-YellowApple02$
+| valencia | world    | that time of year               | fri - 31 | ✅ |
+| valencia | america  | raven quiz                      | sun - 2  | ✅ |
 
 # College 
 * [ ] UMichigan supplementals
