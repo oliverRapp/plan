@@ -2,8 +2,8 @@
 | school   | course   | assignment                      | due      |    |
 |----------|----------|---------------------------------|----------|----|
 | dp       | lit      | methods section                 | fri - 31 | ❌ |
-| flvs     | psych    | 3.07 dba                        |          | ❌ |
-| flvs     | psych    | 3.08 exam                       |          | ❌ |
+| flvs     | psych    | 3.07 dba                        |          | ✅ |
+| flvs     | psych    | 3.08 exam                       |          | ✅ |
 | flvs     | econ     | 2.11 exam A                     |          | ❌ |
 | flvs     | econ     | 2.11 exam B                     |          | ❌ |
 | flvs     | econ     | 3.01 quiz                       |          | ❌ |
