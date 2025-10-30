@@ -30,7 +30,7 @@
 | valencia | criminal | define terms 12                 | sun - 2  | ✅ |
 | valencia | criminal | define terms 13                 | sun - 2  | ✅ |
 | valencia | criminal | test 4                          | sun - 2  | ✅ |
-| valencia | criminal | writing assignment 2            | sun - 2  | ❌ |
+| valencia | criminal | writing assignment 2            | sun - 2  | ✅ |
 | valencia | world    | that time of year               | fri - 31 | ✅ |
 | valencia | america  | raven quiz                      | sun - 2  | ✅ |
 
