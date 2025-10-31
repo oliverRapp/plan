@@ -13,9 +13,9 @@
 | flvs     | econ     | 3.05 assignment                 |          | ❌ |
 | flvs     | econ     | 3.06 quiz                       |          | ❌ |
 | flvs     | econ     | 3.07 assignment                 |          | ❌ |
-| flvs     | latin    | 1.05 dba                        |          | ❌ |
-| flvs     | latin    | 1.06 quiz                       |          | ❌ |
-| flvs     | latin    | 1.07 quiz                       |          | ❌ |
+| flvs     | latin    | 1.05 dba                        |          | ✅ |
+| flvs     | latin    | 1.06 quiz                       |          | ✅ |
+| flvs     | latin    | 1.07 quiz                       |          | ✅ |
 | flvs     | latin    | 1.08 assignment                 |          | ❌ |
 | flvs     | latin    | 1.09 exam                       |          | ❌ |
 | flvs     | latin    | 2.01 quiz                       |          | ❌ |
