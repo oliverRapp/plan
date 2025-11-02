@@ -25,8 +25,8 @@
 | valencia | criminal | 4.5 quiz                        | sun - 2  | ✅ |
 | valencia | criminal | 4.4 discussion                  | sun - 2  | ✅ |
 | valencia | criminal | 4.5 discussion                  | sun - 2  | ✅ |
-| valencia | criminal | 4.4 discussion replies          | sun - 2  | ❌ |
-| valencia | criminal | 4.5 discussion replies          | sun - 2  | ❌ |
+| valencia | criminal | 4.4 discussion replies          | sun - 2  | ✅ |
+| valencia | criminal | 4.5 discussion replies          | sun - 2  | ✅ |
 | valencia | criminal | define terms 12                 | sun - 2  | ✅ |
 | valencia | criminal | define terms 13                 | sun - 2  | ✅ |
 | valencia | criminal | test 4                          | sun - 2  | ✅ |
@@ -35,13 +35,11 @@
 | valencia | america  | raven quiz                      | sun - 2  | ✅ |
 
 # College 
-* [ ] UMichigan supplementals
-* [ ] UF supplementals
+* [✓] UF supplementals
 * [ ] (commonapp) activites
 * [ ] (commonapp) honors
 * [ ] css
 * [ ] sign up for interviews
-* [ ] reach back out to molly
 * [ ] email castell for psych term and calc grade change
 
 # Plan 
