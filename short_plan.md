@@ -4,15 +4,15 @@
 | dp       | lit      | methods section                 | fri - 31 | ✅ |
 | flvs     | psych    | 3.07 dba                        |          | ✅ |
 | flvs     | psych    | 3.08 exam                       |          | ✅ |
-| flvs     | econ     | 2.11 exam A                     |          | ❌ |
-| flvs     | econ     | 2.11 exam B                     |          | ❌ |
-| flvs     | econ     | 3.01 quiz                       |          | ❌ |
-| flvs     | econ     | 3.02 assignment                 |          | ❌ |
-| flvs     | econ     | 3.03 quiz                       |          | ❌ |
-| flvs     | econ     | 3.04 quiz                       |          | ❌ |
-| flvs     | econ     | 3.05 assignment                 |          | ❌ |
-| flvs     | econ     | 3.06 quiz                       |          | ❌ |
-| flvs     | econ     | 3.07 assignment                 |          | ❌ |
+| flvs     | econ     | 2.11 exam A                     |          | ✅ |
+| flvs     | econ     | 2.11 exam B                     |          | ✅ |
+| flvs     | econ     | 3.01 quiz                       |          | ✅ |
+| flvs     | econ     | 3.02 assignment                 |          | ✅ |
+| flvs     | econ     | 3.03 quiz                       |          | ✅ |
+| flvs     | econ     | 3.04 quiz                       |          | ✅ |
+| flvs     | econ     | 3.05 assignment                 |          | ✅ |
+| flvs     | econ     | 3.06 quiz                       |          | ✅ |
+| flvs     | econ     | 3.07 assignment                 |          | ✅ |
 | flvs     | latin    | 1.05 dba                        |          | ✅ |
 | flvs     | latin    | 1.06 quiz                       |          | ✅ |
 | flvs     | latin    | 1.07 quiz                       |          | ✅ |
