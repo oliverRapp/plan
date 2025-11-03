@@ -17,9 +17,9 @@
 | flvs     | latin    | 1.06 quiz                       |          | ✅ |
 | flvs     | latin    | 1.07 quiz                       |          | ✅ |
 | flvs     | latin    | 1.08 assignment                 |          | ❌ |
-| flvs     | latin    | 1.09 exam                       |          | ❌ |
-| flvs     | latin    | 2.01 quiz                       |          | ❌ |
-| flvs     | latin    | 2.02 quiz                       |          | ❌ |
+| flvs     | latin    | 1.09 exam                       |          | ✅ |
+| flvs     | latin    | 2.01 quiz                       |          | ✅ |
+| flvs     | latin    | 2.02 quiz                       |          | ✅ |
 | valencia | deviant  | finding research                | sun - 2  | ✅ |
 | valencia | criminal | 4.4 quiz                        | sun - 2  | ✅ |
 | valencia | criminal | 4.5 quiz                        | sun - 2  | ✅ |
