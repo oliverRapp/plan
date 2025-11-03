@@ -1,41 +1,36 @@
 # Assignments 
-| school   | course   | assignment                      | due      |    |
-|----------|----------|---------------------------------|----------|----|
-| dp       | lit      | methods section                 | fri - 31 | ✅ |
-| flvs     | psych    | 3.07 dba                        |          | ✅ |
-| flvs     | psych    | 3.08 exam                       |          | ✅ |
-| flvs     | econ     | 2.11 exam A                     |          | ✅ |
-| flvs     | econ     | 2.11 exam B                     |          | ✅ |
-| flvs     | econ     | 3.01 quiz                       |          | ✅ |
-| flvs     | econ     | 3.02 assignment                 |          | ✅ |
-| flvs     | econ     | 3.03 quiz                       |          | ✅ |
-| flvs     | econ     | 3.04 quiz                       |          | ✅ |
-| flvs     | econ     | 3.05 assignment                 |          | ✅ |
-| flvs     | econ     | 3.06 quiz                       |          | ✅ |
-| flvs     | econ     | 3.07 assignment                 |          | ✅ |
-| flvs     | latin    | 1.05 dba                        |          | ✅ |
-| flvs     | latin    | 1.06 quiz                       |          | ✅ |
-| flvs     | latin    | 1.07 quiz                       |          | ✅ |
-| flvs     | latin    | 1.08 assignment                 |          | ❌ |
-| flvs     | latin    | 1.09 exam                       |          | ✅ |
-| flvs     | latin    | 2.01 quiz                       |          | ✅ |
-| flvs     | latin    | 2.02 quiz                       |          | ✅ |
-| valencia | deviant  | finding research                | sun - 2  | ✅ |
-| valencia | criminal | 4.4 quiz                        | sun - 2  | ✅ |
-| valencia | criminal | 4.5 quiz                        | sun - 2  | ✅ |
-| valencia | criminal | 4.4 discussion                  | sun - 2  | ✅ |
-| valencia | criminal | 4.5 discussion                  | sun - 2  | ✅ |
-| valencia | criminal | 4.4 discussion replies          | sun - 2  | ✅ |
-| valencia | criminal | 4.5 discussion replies          | sun - 2  | ✅ |
-| valencia | criminal | define terms 12                 | sun - 2  | ✅ |
-| valencia | criminal | define terms 13                 | sun - 2  | ✅ |
-| valencia | criminal | test 4                          | sun - 2  | ✅ |
-| valencia | criminal | writing assignment 2            | sun - 2  | ✅ |
-| valencia | world    | that time of year               | fri - 31 | ✅ |
-| valencia | america  | raven quiz                      | sun - 2  | ✅ |
+| school   | course   | assignment                 | due      |    |
+|----------|----------|----------------------------|----------|----|
+| dp       | lit      | death of a toad            |          | ❌ |
+| flvs     | psych    | 4.01 quiz                  |          | ❌ |
+| flvs     | psych    | 4.02 quiz                  |          | ❌ |
+| flvs     | psych    | 4.03 assignment            |          | ❌ |
+| flvs     | psych    | 4.04 quiz                  |          | ❌ |
+| flvs     | psych    | 4.05 assignment            |          | ❌ |
+| flvs     | psych    | 4.06 worksheet             |          | ❌ |
+| flvs     | econ     | 3.08 dba                   |          | ❌ |
+| flvs     | econ     | 3.09 exam a                |          | ❌ |
+| flvs     | econ     | 3.09 exam b                |          | ❌ |
+| flvs     | econ     | 4.01 quiz                  |          | ❌ |
+| flvs     | econ     | 4.02 assignment            |          | ❌ |
+| flvs     | econ     | 4.03 assignment            |          | ❌ |
+| flvs     | econ     | 4.04 quiz                  |          | ❌ |
+| flvs     | econ     | 4.05 assignment            |          | ❌ |
+| flvs     | latin    | 1.08 assignment            |          | ❌ |
+| flvs     | latin    | 2.03 assignment            |          | ❌ |
+| flvs     | latin    | 2.04 assignment            |          | ❌ |
+| valencia | criminal | 5.1 quiz                   | sun - 9  | ❌ |
+| valencia | criminal | 5.2 quiz                   | sun - 9  | ❌ |
+| valencia | criminal | 5.1 discussion             | sun - 9  | ❌ |
+| valencia | criminal | 5.2 discussion             | sun - 9  | ❌ |
+| valencia | criminal | 5.1 discussion replies     | sun - 9  | ❌ |
+| valencia | criminal | 5.2 discussion replies     | sun - 9  | ❌ |
+| valencia | criminal | define terms 14            | sun - 9  | ❌ |
+| valencia | criminal | define terms 15            | sun - 9  | ❌ |
+| valencia | world    | Let Me Not to the Marriage | fri - 7  | ❌ |
 
 # College 
-* [✓] UF supplementals
+* [ ] hamilton supplementals
 * [ ] (commonapp) activites
 * [ ] (commonapp) honors
 * [ ] css
@@ -43,12 +38,12 @@
 * [ ] email castell for psych term and calc grade change
 
 # Plan 
-| day | work category           |
-|-----|-------------------------|
-| M   | criminal                |
-| T   | deviant, world, america |
-| W   | psych                   |
-| T   | latin                   |
-| F   | econ, lit               |
-| S   | latin                   |
-| S   | econ                    |
+| day | work category |
+|-----|---------------|
+| M   | valencia      |
+| T   | lit           |
+| W   |          |
+| T   | latin         |
+| F   | econ, lit     |
+| S   | latin         |
+| S   | econ          |
