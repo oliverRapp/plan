@@ -23,11 +23,11 @@
 | valencia | criminal | 5.2 quiz                   | sun - 9  | ✅ |
 | valencia | criminal | 5.1 discussion             | sun - 9  | ✅ |
 | valencia | criminal | 5.2 discussion             | sun - 9  | ✅ |
-| valencia | criminal | 5.1 discussion replies     | sun - 9  | ❌ |
-| valencia | criminal | 5.2 discussion replies     | sun - 9  | ❌ |
+| valencia | criminal | 5.1 discussion replies     | sun - 9  | ✅ |
+| valencia | criminal | 5.2 discussion replies     | sun - 9  | ✅ |
 | valencia | criminal | define terms 14            | sun - 9  | ✅ |
 | valencia | criminal | define terms 15            | sun - 9  | ✅ |
-| valencia | world    | Let Me Not to the Marriage | fri - 7  | ❌ |
+| valencia | world    | Let Me Not to the Marriage | fri - 7  | ✅ |
 
 # College 
 * [ ] hamilton supplementals
@@ -43,7 +43,7 @@
 | M   | valencia      |
 | T   | lit           |
 | W   |               |
-| T   | latin         |
-| F   | econ, lit     |
-| S   | latin         |
-| S   | econ          |
+| T   |               |
+| F   |               |
+| S   |               |
+| S   |               |
