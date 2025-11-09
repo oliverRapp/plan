@@ -2,11 +2,11 @@
 | school   | course   | assignment                 | due      |    |
 |----------|----------|----------------------------|----------|----|
 | dp       | lit      | death of a toad            |          | ✅ |
-| flvs     | psych    | 4.01 quiz                  |          | ❌ |
-| flvs     | psych    | 4.02 quiz                  |          | ❌ |
-| flvs     | psych    | 4.03 assignment            |          | ❌ |
-| flvs     | psych    | 4.04 quiz                  |          | ❌ |
-| flvs     | psych    | 4.05 assignment            |          | ❌ |
+| flvs     | psych    | 4.01 quiz                  |          | ✅ |
+| flvs     | psych    | 4.02 quiz                  |          | ✅ |
+| flvs     | psych    | 4.03 assignment            |          | ✅ |
+| flvs     | psych    | 4.04 quiz                  |          | ✅ |
+| flvs     | psych    | 4.05 assignment            |          | ✅ |
 | flvs     | psych    | 4.06 worksheet             |          | ❌ |
 | flvs     | econ     | 3.08 dba                   |          | ❌ |
 | flvs     | econ     | 3.09 exam a                |          | ❌ |
