@@ -16,7 +16,7 @@
 | flvs     | econ     | 4.03 assignment            |          | ❌ |
 | flvs     | econ     | 4.04 quiz                  |          | ❌ |
 | flvs     | econ     | 4.05 assignment            |          | ❌ |
-| flvs     | latin    | 1.08 assignment            |          | ❌ |
+| flvs     | latin    | 1.08 assignment            |          | ✅ |
 | flvs     | latin    | 2.03 assignment            |          | ❌ |
 | flvs     | latin    | 2.04 assignment            |          | ❌ |
 | valencia | criminal | 5.1 quiz                   | sun - 9  | ✅ |
