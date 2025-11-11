@@ -1,13 +1,13 @@
 # Assignments 
 | school   | course   | assignment                 | due      |    |
 |----------|----------|----------------------------|----------|----|
-| dp       | lit      | death of a toad            |          | ✅ |
-| flvs     | psych    | 4.01 quiz                  |          | ✅ |
-| flvs     | psych    | 4.02 quiz                  |          | ✅ |
-| flvs     | psych    | 4.03 assignment            |          | ✅ |
-| flvs     | psych    | 4.04 quiz                  |          | ✅ |
-| flvs     | psych    | 4.05 assignment            |          | ✅ |
+| dp       | lit      | to an athlete dying young  | fri - 14 | ❌ |
+| dp       | lit      | seminar prep               | tue - 11 | ❌ |
 | flvs     | psych    | 4.06 worksheet             |          | ❌ |
+| flvs     | psych    | 4.06 dba                   |          | ❌ |
+| flvs     | psych    | 4.07 exam                  |          | ❌ |
+| flvs     | psych    | 4.08 exam A                |          | ❌ |
+| flvs     | psych    | 4.08 exam B                |          | ❌ |
 | flvs     | econ     | 3.08 dba                   |          | ❌ |
 | flvs     | econ     | 3.09 exam a                |          | ❌ |
 | flvs     | econ     | 3.09 exam b                |          | ❌ |
@@ -16,18 +16,28 @@
 | flvs     | econ     | 4.03 assignment            |          | ❌ |
 | flvs     | econ     | 4.04 quiz                  |          | ❌ |
 | flvs     | econ     | 4.05 assignment            |          | ❌ |
-| flvs     | latin    | 1.08 assignment            |          | ✅ |
 | flvs     | latin    | 2.03 assignment            |          | ❌ |
 | flvs     | latin    | 2.04 assignment            |          | ❌ |
-| valencia | criminal | 5.1 quiz                   | sun - 9  | ✅ |
-| valencia | criminal | 5.2 quiz                   | sun - 9  | ✅ |
-| valencia | criminal | 5.1 discussion             | sun - 9  | ✅ |
-| valencia | criminal | 5.2 discussion             | sun - 9  | ✅ |
-| valencia | criminal | 5.1 discussion replies     | sun - 9  | ✅ |
-| valencia | criminal | 5.2 discussion replies     | sun - 9  | ✅ |
-| valencia | criminal | define terms 14            | sun - 9  | ✅ |
-| valencia | criminal | define terms 15            | sun - 9  | ✅ |
-| valencia | world    | Let Me Not to the Marriage | fri - 7  | ✅ |
+| flvs     | latin    | 2.05 dba                   |          | ❌ |
+| flvs     | latin    | 2.06 quiz                  |          | ❌ |
+| flvs     | latin    | 2.07 quiz                  |          | ❌ |
+| flvs     | latin    | 2.08 assignment            |          | ❌ |
+| valencia | deviant  | video quiz                 | sun - 16 | ❌ |
+| valencia | criminal | 5.3 quiz                   | sun - 16 | ❌ |
+| valencia | criminal | 5.4 quiz                   | sun - 16 | ❌ |
+| valencia | criminal | 5.5 quiz                   | sun - 16 | ❌ |
+| valencia | criminal | 5.3 discussion             | sun - 16 | ❌ |
+| valencia | criminal | 5.4 discussion             | sun - 16 | ❌ |
+| valencia | criminal | 5.5 discussion             | sun - 16 | ❌ |
+| valencia | criminal | 5.3 discussion replies     | sun - 16 | ❌ |
+| valencia | criminal | 5.4 discussion replies     | sun - 16 | ❌ |
+| valencia | criminal | 5.5 discussion replies     | sun - 16 | ❌ |
+| valencia | criminal | define terms 16            | sun - 16 | ❌ |
+| valencia | criminal | define terms 17            | sun - 16 | ❌ |
+| valencia | criminal | exam 5                     | sun - 16 | ❌ |
+| valencia | world    | the expense of spirit      | fri - 14 | ❌ |
+| valencia | america  | whitman essay              | sun - 16 | ❌ |
+| valencia | america  | fourth of july speech      | sun - 16 | ❌ |
 
 # College 
 * [ ] hamilton supplementals
@@ -40,8 +50,8 @@
 # Plan 
 | day | work category |
 |-----|---------------|
-| M   | valencia      |
-| T   | lit           |
+| M   |       |
+| T   |            |
 | W   |               |
 | T   |               |
 | F   |               |
