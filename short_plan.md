@@ -30,12 +30,12 @@
 | valencia | criminal | 5.3 discussion            | sun - 16 | ✅  |
 | valencia | criminal | 5.4 discussion            | sun - 16 | ✅  |
 | valencia | criminal | 5.5 discussion            | sun - 16 | ✅  |
-| valencia | criminal | 5.3 discussion replies    | sun - 16 | ❌  |
-| valencia | criminal | 5.4 discussion replies    | sun - 16 | ❌  |
+| valencia | criminal | 5.3 discussion replies    | sun - 16 | ✅  |
+| valencia | criminal | 5.4 discussion replies    | sun - 16 | ✅  |
 | valencia | criminal | 5.5 discussion replies    | sun - 16 | ❌  |
 | valencia | criminal | define terms 16           | sun - 16 | ✅  |
 | valencia | criminal | define terms 17           | sun - 16 | ✅  |
-| valencia | criminal | exam 5                    | sun - 16 | ❌  |
+| valencia | criminal | exam 5                    | sun - 16 | ✅  |
 | valencia | world    | the expense of spirit     | fri - 14 | ❌  |
 | valencia | america  | whitman essay             | sun - 16 | ❌  |
 | valencia | america  | fourth of july speech     | sun - 16 | ❌  |
