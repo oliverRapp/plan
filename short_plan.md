@@ -2,7 +2,7 @@
 
 | school   | course   | assignment                  | due      |     |
 | -------- | -------- | --------------------------- | -------- | --- |
-| dp       | lit      | figurative language         | fri - 21 | ❌  |
+| dp       | lit      | figurative language         | fri - 21 | ✅  |
 | flvs     | psych    | 4.06 worksheet              |          | ✅  |
 | flvs     | psych    | 4.06 dba                    |          | ✅  |
 | flvs     | psych    | 4.07 exam                   |          | ✅  |
@@ -27,14 +27,14 @@
 | valencia | criminal | 6.1 discussion              | sun - 23 | ✅  |
 | valencia | criminal | 6.2 discussion              | sun - 23 | ✅  |
 | valencia | criminal | 6.3 discussion              | sun - 23 | ✅  |
-| valencia | criminal | 6.1 discussion replies      | sun - 23 | ❌  |
-| valencia | criminal | 6.2 discussion replies      | sun - 23 | ❌  |
-| valencia | criminal | 6.3 discussion replies      | sun - 23 | ❌  |
+| valencia | criminal | 6.1 discussion replies      | sun - 23 | ✅  |
+| valencia | criminal | 6.2 discussion replies      | sun - 23 | ✅  |
+| valencia | criminal | 6.3 discussion replies      | sun - 23 | ✅  |
 | valencia | criminal | define terms 18             | sun - 23 | ✅  |
 | valencia | criminal | define terms 19             | sun - 23 | ✅  |
-| valencia | world    | mla activity                | fri - 21 | ❌  |
-| valencia | america  | bartleby discussion         | thu - 20 | ❌  |
-| valencia | america  | bartleby discussion replies | thu - 20 | ❌  |
+| valencia | world    | mla activity                | fri - 21 | ✅  |
+| valencia | america  | bartleby discussion         | thu - 20 | ✅  |
+| valencia | america  | bartleby discussion replies | sun - 23 | ✅  |
 
 # College
 
