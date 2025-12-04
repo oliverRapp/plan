@@ -13,7 +13,7 @@
 | flvs     | latin    | 2.06 quiz                |         | ❌  |
 | flvs     | latin    | 2.07 quiz                |         | ❌  |
 | flvs     | latin    | 2.08 assignment          |         | ❌  |
-| valencia | deviant  | substance use discussion | wed - 3 | ❌  |
+| valencia | deviant  | substance use discussion | wed - 3 | ✅  |
 | valencia | criminal | test 6                   | sun - 7 | ❌  |
 | valencia | world    | quiz 4                   | tue - 2 | ✅  |
 | valencia | america  | exam 2 essay             | wed - 3 | ✅  |
